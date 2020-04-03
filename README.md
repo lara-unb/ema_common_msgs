@@ -1,11 +1,11 @@
 # ema_common_msgs
-This repository provides custom and modified ROS messages used across the Project 
-EMA applications. Instructions on how to import these messages from bagfiles into 
+This repository provides custom and modified ROS messages used across Project EMA 
+applications. Instructions on how to import these messages from bagfiles into 
 Matlab are also included.
 
-- matlab: includes support material for matlab
+- **matlab:** includes support material for matlab
 
-- msg: contains the files that specify the fields of each new type of message
+- **msg:** contains the files that specify the fields of each new type of message
 
-- other: out-of-date scripts, legacy code once used for testing or miscellaneous 
+- **other:** out-of-date scripts, legacy code once used for testing or miscellaneous 
 files in general
