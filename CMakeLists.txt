@@ -55,9 +55,9 @@ add_message_files(
 
 ## Generate services in the 'srv' folder
  add_service_files(
-   FILES
-   imu.srv
-
+    FILES
+    imu.srv
+    display.srv
  )
 
 ## Generate actions in the 'action' folder

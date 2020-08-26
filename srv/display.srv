@@ -1,0 +1,6 @@
+string message
+uint8 line
+uint8 position
+bool clear
+---
+bool success
